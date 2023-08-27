@@ -1,8 +1,0 @@
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\bin\Debug\Player&Team-project.exe.config
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\bin\Debug\Player&Team-project.exe
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\bin\Debug\Player&Team-project.pdb
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\obj\Debug\Player&Team-project.csproj.AssemblyReference.cache
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\obj\Debug\Player&Team-project.csproj.SuggestedBindingRedirects.cache
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\obj\Debug\Player&Team-project.csproj.CoreCompileInputs.cache
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\obj\Debug\Player&Team-project.exe
-C:\Users\Tripti.Nayak\source\repos\Player&Team-project\Player&Team-project\obj\Debug\Player&Team-project.pdb
